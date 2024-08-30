@@ -15,5 +15,4 @@ public class FoodDeliveryWebAppApplication {
 		System.out.println("Application is running at : "+localhostLink);
 
 	}
-
 }
